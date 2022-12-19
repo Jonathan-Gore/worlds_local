@@ -1,0 +1,11 @@
+*
+!*/
+
+#track this file
+!.gitignore
+
+#Save files
+!RustPVE.db
+!RustPVE.db.old
+!RustPVE.fwl
+!RustPVE.fwl.old
